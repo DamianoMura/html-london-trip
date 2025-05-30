@@ -15,3 +15,10 @@ https://imgc.allpostersimages.com/img/posters/evening-tower-bridge-and-river-tha
 
 
 ## /* ho caricato direttamente i file completati... esercizio rivisitato dal fundamentals camp */
+passaggi non presenti nei commit:
+- analizzare lao screen per determinare quali tag utilizzare
+- caricamento immagini e cartella img
+- editing header utilizzando i tag div
+- rinomina dei file jpg per semplificare la scrittura e la lettura del codice
+- creazione delle sezioni della pagina sempre utilizzando i div
+
