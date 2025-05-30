@@ -24,5 +24,5 @@ passaggi non presenti nei commit:
 - creazione tabella spese utilizzando ol all'interno del div
 - creazione tabella todo list ul utilizzando i caratteri speciali check e cross in hex all'interno del div
 - creazione tabelle all'interno del div dove riporto i numeri di telefono utilizzando come tabella principale una ol con ul nestate all'interno
-- caricamento delle foto all'interno di un div (a lezione si parlava di usare un footer ma generalmente il footer riguarda info-link tree etc, quindi ho preferito un div senza usare un footer)
+- caricamento delle foto all'interno di un div (a lezione si parlava di usare un footer ma generalmente riguarda info-link tree etc, quindi ho preferito un div )
 =)
