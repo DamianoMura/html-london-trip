@@ -21,4 +21,8 @@ passaggi non presenti nei commit:
 - editing header utilizzando i tag div
 - rinomina dei file jpg per semplificare la scrittura e la lettura del codice
 - creazione delle sezioni della pagina sempre utilizzando i div
-
+- creazione tabella spese utilizzando ol all'interno del div
+- creazione tabella todo list ul utilizzando i caratteri speciali check e cross in hex all'interno del div
+- creazione tabelle all'interno del div dove riporto i numeri di telefono utilizzando come tabella principale una ol con ul nestate all'interno
+- caricamento delle foto all'interno di un div (a lezione si parlava di usare un footer ma generalmente il footer riguarda info-link tree etc, quindi ho preferito un div senza usare un footer)
+=)
